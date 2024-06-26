@@ -16,7 +16,7 @@
   - **JavaScript**: Functionality to control the stopwatch and theme toggling.
 
 ### Demo
-  ![Stopwatch Light Mode](link_to_light_mode_screenshot)
+  ![Stopwatch Light Mode](https://github.com/vamsi-7coder7/CODSOFT_TASK3_CALCULATOR-/assets/141996043/27de61f6-b7a8-4d2f-9d44-944696fcc108))
   ![Stopwatch Dark Mode](link_to_dark_mode_screenshot)
   
 ### How to Use

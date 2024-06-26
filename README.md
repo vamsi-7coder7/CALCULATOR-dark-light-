@@ -16,19 +16,13 @@
   - **JavaScript**: Functionality to control the stopwatch and theme toggling.
 
 ### Demo
-  ![Stopwatch Light Mode](https://github.com/vamsi-7coder7/CODSOFT_TASK3_CALCULATOR-/assets/141996043/27de61f6-b7a8-4d2f-9d44-944696fcc108))
-  ![Stopwatch Dark Mode](link_to_dark_mode_screenshot)
+  ![Stopwatch Dark Mode](https://github.com/vamsi-7coder7/CODSOFT_TASK3_CALCULATOR-/assets/141996043/27de61f6-b7a8-4d2f-9d44-944696fcc108))
+  ![Stopwatch light Mode](https://github.com/vamsi-7coder7/CODSOFT_TASK3_CALCULATOR-/assets/141996043/fdd05636-f091-4c95-8cc3-1a6f682f9c7a)
+
+
   
 ### How to Use
-  1. **Clone the repository**:
-      ```bash
-      git clone https://github.com/yourusername/stopwatch-dark-light-mode.git
-      ```  
-  2. **Navigate to the project directory**:
-      ```bash
-      cd stopwatch-dark-light-mode
-      ```
-  3. **Open `index.html` in your web browser** to start using the stopwatch.
+ **Open `index.html` in your web browser** to start using the stopwatch.
 
 ### Project Structure
 

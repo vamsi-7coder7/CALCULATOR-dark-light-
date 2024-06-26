@@ -2,14 +2,17 @@
   This is a simple and stylish calculator built using HTML, CSS, and JavaScript. The calculator supports both dark and light modes, making it easy to use in any lighting condition.
 
 ## Features
+
   Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
   Responsive Design: Works on both desktop and mobile devices.
   Dark and Light Modes: Toggle between dark and light modes for better visibility and comfort.
   Stylish UI: Clean and modern user interface.
+  
 ## Technologies Used
   HTML: For the structure of the calculator.
   CSS: For styling the calculator and implementing dark/light modes.
   JavaScript: For the calculator's functionality and mode switching.
+
 
 ### Demo
   ![Stopwatch Dark Mode](https://github.com/vamsi-7coder7/CODSOFT_TASK3_CALCULATOR-/assets/141996043/27de61f6-b7a8-4d2f-9d44-944696fcc108))
